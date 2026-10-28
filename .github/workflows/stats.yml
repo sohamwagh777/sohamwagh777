@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: sohamwagh777
-          template: terminal
+          template: classic
           base: header,activity,community
           repositories: 10
           plugin_languages: yes
