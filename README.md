@@ -41,7 +41,7 @@
 ### GitHub stats
 
 <p>
-  <img src="./.github/metrics.svg" alt="GitHub metrics: activity, community, languages, contribution calendar, and achievements" width="100%" />
+  <img src=".github/metrics.svg" alt="GitHub metrics: activity, community, languages, contribution calendar, and achievements" width="100%" />
 </p>
 <p>
   <img src="https://streak-stats.demolab.com?user=sohamwagh777&type=weekly&hide_border=true&background=15171a&stroke=282C32&ring=D8A25E&fire=D8A25E&currStreakLabel=D8A25E&sideLabels=ECEBE6&dates=8F949B" alt="Weekly GitHub contribution streak" />
